@@ -1,1 +1,8 @@
+add raw/ui/ui_gamemodetitle_en.pac
+add savedata/arcade/arcadedata.sav
+add savedata/auto0/gamedata.sav
+add savedata/challenge/challengedata.sav
+add savedata/manual0/gamedata.sav
+add savedata/manual1/gamedata.sav
 add mod.ini
+add NoBox.hmm
