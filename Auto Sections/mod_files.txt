@@ -1,3 +1,3 @@
-delete savedata/auto0/gamedata.sav
 add savedata/manual2/gamedata.sav
+delete savedata/auto0/gamedata.sav
 add mod.ini
