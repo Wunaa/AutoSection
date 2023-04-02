@@ -1,4 +1,4 @@
-## Auto Sections V1.1.1
+## Auto Sections V1.2
 - Fixed Ares being overwritten
 
 ## Auto Sections V1.1
