@@ -1,3 +1,4 @@
 add savedata/manual2/gamedata.sav
 delete savedata/auto0/gamedata.sav
+add raw/ui/ui_gamemodetitle_en.pac
 add mod.ini
