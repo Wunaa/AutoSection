@@ -1,2 +1,2 @@
-add raw/ui/ui_gamemodetitle_en.pac
+add savedata/auto0/gamedata.sav
 add mod.ini
